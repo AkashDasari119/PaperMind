@@ -120,7 +120,9 @@ If you would like to contribute:
 
 ## License
 
-This project is provided under the terms specified by the repository owner (add your license details here, e.g., MIT, Apache 2.0, GPL-3.0, etc.). If no license is specified, the default is "All Rights Reserved."
+This project retains the MIT License of the original Research Paper Analyst repository by di37.
+Original repository: https://github.com/di37/research-paper-analyst
+Modifications and adaptations were made for the PaperMind academic project. The original MIT License and copyright notice are retained in the `LICENSE` file.
 
 ---
 
